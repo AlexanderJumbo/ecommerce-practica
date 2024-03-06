@@ -1,0 +1,12 @@
+.filter {
+  display: flex;
+  justify-content: space-around;
+}
+.filter-price {
+  display: flex;
+}
+
+.filter select {
+  width: 10rem;
+  height: 30px;
+}
